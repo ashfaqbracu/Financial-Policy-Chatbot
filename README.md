@@ -48,7 +48,8 @@ RAG/
 ├── chroma_db/             # ChromaDB database (auto-created)
 ├── venv/                  # Virtual environment (optional)
 ├── README.md              # This file
-└── QUICKSTART.md          # Quick setup guide
+├── QUICKSTART.md          # Quick setup guide
+└── TECHNICAL_ARCHITECTURE.md  # Technical deep dive
 ```
 
 ## Usage Examples
@@ -155,6 +156,12 @@ The chatbot understands context, so you can follow up with:
 - "What about education funding?"
 - "How does this compare to last year?"
 - "Tell me more about that"
+
+## Documentation
+
+- **README.md** - Main project documentation (this file)
+- **QUICKSTART.md** - Quick setup guide for immediate use
+- **TECHNICAL_ARCHITECTURE.md** - Deep dive into memory system and search architecture
 
 ## License
 
