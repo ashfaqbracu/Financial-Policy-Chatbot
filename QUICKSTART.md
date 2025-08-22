@@ -35,7 +35,9 @@ I've successfully built your financial policy chatbot with the following feature
 # 1. Activate virtual environment (if not already active)
 venv\Scripts\activate
 
-# 2. Start the chatbot ( Run the file twice. First run will initilize the rag system. The second one will let you chat in the terminal.)
+# 2. Populate the chatbot ( Run the fill_db.py file to populate the database ) 
+
+# 3. Start the chatbot ( Run the file twice. First run will initilize the rag system. The second one will let you chat in the terminal.)
 python financial_chatbot.py
 ```
 
